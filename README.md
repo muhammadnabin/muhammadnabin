@@ -20,7 +20,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=▓▓▓▓▓+MATRIX+RAIN+FALLING+▓▓▓▓▓;01001101+01010101+01001000+01000001+01001101+01001101+01000001+01000100;▓▓▓▓▓+NEURAL+PATHWAYS+CONNECTING+▓▓▓▓▓;QUANTUM+ENCRYPTION+ENABLED+🔐+SECURE+CHANNEL+ESTABLISHED" alt="Matrix Rain" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=01001101+01010101+01001000+01000001+01001101+01001101+01000001+01000100;▓▓▓▓▓+NEURAL+PATHWAYS+CONNECTING+▓▓▓▓▓;QUANTUM+ENCRYPTION+ENABLED+🔐+SECURE+CHANNEL+ESTABLISHED" alt="Matrix Rain" />
 </p>
 
 ---
@@ -433,25 +433,9 @@ DEPLOYMENT_READINESS: ███████████████████�
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> SECURE COMMUNICATION CHANNELS
 
 <div align="center">
+  <p align="center"><a href="muhammadnabin" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="muhammadnabin" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/></a> <a href="muhammadnabin" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="Youtube" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:muhammadnabin.dev@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="muhammadnabin" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
 </div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/muhammadnabin" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 8px;"/>
-  </a>
-  <a href="https://twitter.com/muhammadnabin" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/>
-  </a>
-  <a href="https://youtube.com/@muhammadnabin" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="Youtube" width="40" height="40" style="margin: 0 8px;"/>
-  </a>
-  <a href="mailto:muhammadnabin.dev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/>
-  </a>
-  <a href="https://muhammadnabin.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/>
-  </a>
-</p>
 
 ---
 
@@ -488,71 +472,6 @@ DEPLOYMENT_READINESS: ███████████████████�
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
-
----
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> SUPPORT PROTOCOL `[RESOURCE_ALLOCATION]`
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║              INITIATING SUPPORT PROTOCOL...                   ║
-║  [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■]  ║
-║              QUANTUM TRANSACTION READY                        ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/muhammadnabin" target="_blank">
-    <img src="https://img.shields.io/badge/☕_FUEL_THE_NEURAL_NETWORK-00FF41?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000&labelColor=00FF41" height="50"/>
-  </a>
-</p>
-
-<div align="center">
-
-```diff
-+ SUPPORT TIER: OMEGA LEVEL
-+ ENCRYPTION: QUANTUM RESISTANT  
-+ TRANSACTION: INSTANT PROCESSING
-+ IMPACT: MAXIMUM EFFICIENCY BOOST
-
-@@ RESOURCE ALLOCATION CONFIRMED @@
-! Your contribution powers the next generation of secure systems
-# Every coffee = 1000+ lines of bulletproof code
-```
-
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CONTRIBUTIONS-WELCOMED-00FF41?style=for-the-badge&labelColor=000000" alt="Contributions"/>
-  <img src="https://img.shields.io/badge/OPEN_SOURCE-SUPPORTER-00FF41?style=for-the-badge&labelColor=000000" alt="Open Source"/>
-  <img src="https://img.shields.io/badge/COMMUNITY-BUILDER-00FF41?style=for-the-badge&labelColor=000000" alt="Community"/>
-</p>
-
-<div align="center">
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  IF (myWork.value > 0) {
-    supportTheMatrix();
-    fuelInnovation();
-    enableNextGenTech();
-  }
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=12&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=☕+SUPPORT+SYSTEM+ONLINE+☕;💚+COMMUNITY+POWERED+💚;🚀+INNOVATION+FUNDED+🚀" alt="Support Status" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</p>
 
 ---
 
@@ -631,59 +550,6 @@ DEPLOYMENT_READINESS: ███████████████████�
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </p>
-
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> TERMINAL ACCESS `[COMMAND_LINE_INTERFACE]`
-
-<div align="center">
-
-```bash
-┌─[muhammadnabin@MAINFRAME]─[~]
-└──╼ $ whoami
-SYSTEM_ARCHITECT_v4.0 | CLEARANCE: OMEGA | STATUS: OPERATIONAL
-
-┌─[muhammadnabin@MAINFRAME]─[~]
-└──╼ $ ls -la skills/
-drwxr-xr-x  10 root root  4096 Oct 06 2025 ./
-drwxr-xr-x  25 root root  4096 Oct 06 2025 ../
--rwxr-xr-x   1 root root  9999 Oct 06 2025 full_stack_dev*
--rwxr-xr-x   1 root root  9999 Oct 06 2025 iot_systems*
--rwxr-xr-x   1 root root  9999 Oct 06 2025 robotics_engineering*
--rwxr-xr-x   1 root root  9999 Oct 06 2025 cybersecurity*
--rwxr-xr-x   1 root root  9999 Oct 06 2025 embedded_systems*
--rwxr-xr-x   1 root root  9999 Oct 06 2025 hardware_hacking*
-
-┌─[muhammadnabin@MAINFRAME]─[~]
-└──╼ $ cat /etc/mission_statement
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  MISSION: Engineer the impossible. Secure the future.
-  VISION: Where code meets silicon, innovation is born.
-  VALUES: Excellence | Security | Innovation | Impact
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-┌─[muhammadnabin@MAINFRAME]─[~]
-└──╼ $ ./deploy --target=production --mode=aggressive
-[✓] Compiling neural networks...
-[✓] Encrypting data streams...
-[✓] Initializing quantum protocols...
-[✓] Deploying to production servers...
-[✓] DEPLOYMENT SUCCESSFUL - ALL SYSTEMS OPERATIONAL
-
-┌─[muhammadnabin@MAINFRAME]─[~]
-└──╼ $ █
-```
-
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=12&pause=1000&color=00D4AA&center=true&vCenter=true&width=900&lines=💻+TERMINAL+ACCESS+GRANTED+💻;⌨️+COMMAND+LINE+READY+⌨️;🔓+ROOT+PRIVILEGES+ENABLED+🔓" alt="Terminal Status" />
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
 ---
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> SYSTEM SIGNATURE `[AUTHORIZATION_COMPLETE]`
