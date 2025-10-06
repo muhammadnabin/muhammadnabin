@@ -1,3 +1,5 @@
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Muhammad Nabin</h1>
+<h3 align="center">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Full+Stack+%26+IoT+Systems+Architect;Robotics+%26+Embedded+Systems+Engineer;Cybersecurity+%26+Penetration+Testing+Specialist;Hardware+Hacking+%26+Security+Researcher;Building+Intelligent+%26+Secure+Systems" alt="Subtitle" />
 </p>
@@ -435,32 +437,21 @@ DEPLOYMENT_READINESS: ███████████████████�
 
 <p align="center">
   <a href="https://linkedin.com/in/muhammadnabin" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-ENCRYPTED_CHANNEL-00FF41?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000" alt="LinkedIn"/>
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 8px;"/>
   </a>
   <a href="https://twitter.com/muhammadnabin" target="_blank">
-    <img src="https://img.shields.io/badge/TWITTER-SECURE_FEED-00FF41?style=for-the-badge&logo=twitter&logoColor=00FF41&labelColor=000000" alt="Twitter"/>
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/>
   </a>
   <a href="https://youtube.com/@muhammadnabin" target="_blank">
-    <img src="https://img.shields.io/badge/YOUTUBE-BROADCAST_LIVE-00FF41?style=for-the-badge&logo=youtube&logoColor=00FF41&labelColor=000000" alt="YouTube"/>
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="Youtube" width="40" height="40" style="margin: 0 8px;"/>
   </a>
-</p>
-
-<p align="center">
   <a href="mailto:muhammadnabin.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/CLASSIFIED_EMAIL-PGP_ENCRYPTED-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000" alt="Email"/>
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/>
   </a>
   <a href="https://muhammadnabin.com" target="_blank">
-    <img src="https://img.shields.io/badge/MAINFRAME-PORTAL_ACCESS-00FF41?style=for-the-badge&logo=google-chrome&logoColor=00FF41&labelColor=000000" alt="Website"/>
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=12&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=🔐+SECURE+CHANNELS+OPEN+🔐;📡+ENCRYPTED+TRANSMISSION+ACTIVE+📡;🌐+GLOBAL+NETWORK+CONNECTED+🌐" alt="Communication Status" />
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
 
 ---
 
@@ -561,68 +552,6 @@ DEPLOYMENT_READINESS: ███████████████████�
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</p>
-
----
-
-## <img src="https://media.giphy.com/media/kdiLf3LHFIubA6vDC1/giphy.gif" width="30"> SYSTEM STATISTICS `[LIVE_METRICS]`
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════════════╗
-║                    REAL-TIME SYSTEM PERFORMANCE                       ║
-╠═══════════════════════════════════════════════════════════════════════╣
-║  METRIC                    │ STATUS          │ PERFORMANCE            ║
-║─────────────────────────────────────────────────────────────────────║
-║  Code Quality              │ ████████░░ 85%  │ EXCELLENT              ║
-║  Security Posture          │ ██████████ 100% │ FORTRESS LEVEL         ║
-║  Innovation Index          │ █████████░ 92%  │ CUTTING EDGE           ║
-║  System Uptime             │ ██████████ 99%  │ MISSION CRITICAL       ║
-║  Neural Learning Rate      │ ████████░░ 88%  │ RAPID ADVANCEMENT      ║
-║  Community Impact          │ ███████░░░ 78%  │ GROWING INFLUENCE      ║
-╚═══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadnabin&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00D4AA&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00D4AA&dates=008F11" alt="GitHub Streak Stats"/>
-</p>
-
-<div align="center">
-
-```python
-# NEURAL NETWORK PERFORMANCE ALGORITHM
-def calculate_developer_efficiency():
-    metrics = {
-        'commits': 'CLASSIFIED',
-        'pull_requests': 'HIGHLY_EFFECTIVE',
-        'code_reviews': 'THOROUGH_ANALYSIS',
-        'bug_fixes': 'RAPID_RESPONSE',
-        'security_patches': 'ZERO_DAY_READY',
-        'innovation_rate': 'EXPONENTIAL_GROWTH'
-    }
-    
-    efficiency_score = sum([
-        metrics['commits'] * 0.2,
-        metrics['code_reviews'] * 0.3,
-        metrics['security_patches'] * 0.5
-    ])
-    
-    return f"EFFICIENCY: {efficiency_score}% | STATUS: OPTIMAL"
-
-# >>> OUTPUT: EFFICIENCY: 96.7% | STATUS: OPTIMAL
-```
-
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=12&pause=1000&color=00D4AA&center=true&vCenter=true&width=900&lines=📊+METRICS+CALCULATED+📊;⚡+PERFORMANCE+OPTIMAL+⚡;🎯+EFFICIENCY+MAXIMIZED+🎯" alt="Metrics Status" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </p>
 
 ---
