@@ -1,15 +1,5 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:00D4AA,100:00FF41&height=200&section=header&text=MATRIX%20INITIALIZED&fontSize=50&fontColor=00FF41&animation=twinkling&fontAlignY=35&desc=Digital%20Rain%20Active...&descSize=20&descAlignY=55" width="100%"/>
-</div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=600&lines=BOOTING+SYSTEM...;Muhammad+Nabin;NEURAL+NETWORK+ONLINE;READY+FOR+DEPLOYMENT" alt="Typing SVG" />
-</h1>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Full+Stack+%26+IoT+Systems+Architect;Robotics+%26+Embedded+Systems+Engineer;Cybersecurity+%26+Penetration+Testing+Specialist;Hardware+Hacking+%26+Security+Researcher;Building+Intelligent+%26+Secure+Systems" alt="Subtitle" />
-  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px">
 </p>
 
 <p align="center">
@@ -26,23 +16,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
-
-```diff
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@                                                                              @@
-@@   ███╗   ███╗██╗   ██╗██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗ █████╗ ██████╗ @@
-@@   ████╗ ████║██║   ██║██║  ██║██╔══██╗████╗ ████║████╗ ████║██╔══██╗██╔══██╗@@
-@@   ██╔████╔██║██║   ██║███████║███████║██╔████╔██║██╔████╔██║███████║██║  ██║@@
-@@   ██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║  ██║@@
-@@   ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██████╔╝@@
-@@   ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝ @@
-@@                                                                              @@
-@@                        N  A  B  I  N                                         @@
-@@                  [SYSTEM ARCHITECT v4.0]                                     @@
-@@                 CLEARANCE: OMEGA | STATUS: ACTIVE                            @@
-@@                                                                              @@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-```
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=▓▓▓▓▓+MATRIX+RAIN+FALLING+▓▓▓▓▓;01001101+01010101+01001000+01000001+01001101+01001101+01000001+01000100;▓▓▓▓▓+NEURAL+PATHWAYS+CONNECTING+▓▓▓▓▓;QUANTUM+ENCRYPTION+ENABLED+🔐+SECURE+CHANNEL+ESTABLISHED" alt="Matrix Rain" />
@@ -194,13 +167,6 @@ STATUS: █████████░ 92% DEPLOYED
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> NEURAL NETWORK ANALYTICS
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  SYSTEM PERFORMANCE METRICS - REAL-TIME TELEMETRY                   │
-│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammadnabin&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400&bg_color=0d1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41" alt="GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=muhammadnabin&theme=chartreuse-dark&hide_border=true&cache_seconds=86400&background=0d1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=008F11" alt="GitHub Streak" width="49%" />
@@ -224,14 +190,6 @@ STATUS: █████████░ 92% DEPLOYED
 </p>
 
 <div align="center">
-
-```
-╔════════════════════════════════════════════════════════════════════════╗
-║                    WEAPONIZED TECHNOLOGY ARSENAL                       ║
-║              [CLEARANCE LEVEL: OMEGA - AUTHORIZED PERSONNEL ONLY]      ║
-╚════════════════════════════════════════════════════════════════════════╝
-```
-
 </div>
 
 <p align="center">
@@ -362,7 +320,7 @@ DEPLOYMENT_READINESS: ███████████████████�
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
-  <img src="https://www.vectorlogo.zone/logos/espressif/espressif-icon.svg" alt="ESP32" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/049feeedd58e2eb4cf24fff5950bba96e1631fd8/svg/espressif.svg" alt="ESP32" width="48" height="48" style="margin: 4px;" />
 </p>
 
 ```
@@ -473,15 +431,6 @@ DEPLOYMENT_READINESS: ███████████████████�
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> SECURE COMMUNICATION CHANNELS
 
 <div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║           ESTABLISHING ENCRYPTED CONNECTION...                ║
-║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ║
-║           TLS 1.3 HANDSHAKE COMPLETE                          ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
 </div>
 
 <p align="center">
@@ -534,7 +483,7 @@ DEPLOYMENT_READINESS: ███████████████████�
 ║  "In the digital battlefield, code is the weapon,                    ║
 ║   security is the shield, and innovation is the strategy."           ║
 ║                                                                       ║
-║  — MUHAMMAD NABIN [SYSTEM ARCHITECT v4.0]                            ║
+║  — MUHAMMAD NABIN [SYSTEM ARCHITECT v1.0]                            ║
 ║                                                                       ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 ```
@@ -816,7 +765,7 @@ drwxr-xr-x  25 root root  4096 Oct 06 2025 ../
 ╔═══════════════════════════════════════════════════════════════════════╗
 ║                                                                       ║
 ║                      MUHAMMAD NABIN                                   ║
-║                 [SYSTEM ARCHITECT v4.0]                               ║
+║                 [SYSTEM ARCHITECT v1.0]                               ║
 ║                                                                       ║
 ║            "Engineering Tomorrow's Security Today"                    ║
 ║                                                                       ║
@@ -842,13 +791,3 @@ drwxr-xr-x  25 root root  4096 Oct 06 2025 ../
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:00D4AA,100:00FF41&height=150&section=footer&text=SESSION%20TERMINATED&fontSize=30&fontColor=00FF41&animation=twinkling&fontAlignY=70" width="100%"/>
 </p>
-
-<div align="center">
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  CONNECTION CLOSED | NEURAL LINK DISENGAGED | SYSTEMS STANDING BY
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-</div>
