@@ -1,44 +1,25 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:00D4AA,100:00FF41&height=200&section=header&text=SYSTEM%20INITIALIZED&fontSize=40&fontColor=00FF41&animation=twinkling&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:00D4AA,100:00FF41&height=200&section=header&text=MATRIX%20INITIALIZED&fontSize=50&fontColor=00FF41&animation=twinkling&fontAlignY=35&desc=Digital%20Rain%20Active...&descSize=20&descAlignY=55" width="100%"/>
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=ACCESSING+NEURAL+NETWORK...;Muhammad+Nabin+%3E+ONLINE;SYSTEM+STATUS%3A+OPERATIONAL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=600&lines=BOOTING+SYSTEM...;Muhammad+Nabin;NEURAL+NETWORK+ONLINE;READY+FOR+DEPLOYMENT" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=%3C+Full+Stack+%26+IoT+Systems+Architect+%2F%3E;%3C+Robotics+%26+Embedded+Systems+Engineer+%2F%3E;%3C+Cybersecurity+%26+Penetration+Testing+Specialist+%2F%3E;%3C+Hardware+Hacking+%26+Security+Researcher+%2F%3E;%3C+Building+Intelligent+%26+Secure+Systems+%2F%3E" alt="Subtitle" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Full+Stack+%26+IoT+Systems+Architect;Robotics+%26+Embedded+Systems+Engineer;Cybersecurity+%26+Penetration+Testing+Specialist;Hardware+Hacking+%26+Security+Researcher;Building+Intelligent+%26+Secure+Systems" alt="Subtitle" />
   <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&logo=probot&logoColor=00FF41&labelColor=000000" alt="Status" />
-  <img src="https://img.shields.io/badge/NEURAL_NETWORK-ACTIVE-00FF41?style=for-the-badge&logo=tensorflow&logoColor=00FF41&labelColor=000000" alt="Neural Network" />
-  <img src="https://img.shields.io/badge/SECURITY-LEVEL_5-00FF41?style=for-the-badge&logo=security&logoColor=00FF41&labelColor=000000" alt="Security" />
-</p>
-
-<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&logo=statuspage&logoColor=00FF41&labelColor=0d1117&borderColor=00FF41" alt="Status" />
+  <img src="https://img.shields.io/badge/NEURAL_NETWORK-ACTIVE-00FF41?style=for-the-badge&logo=tensorflow&logoColor=00FF41&labelColor=0d1117" alt="Neural Network" />
+  <img src="https://img.shields.io/badge/SECURITY-LEVEL_5-00FF41?style=for-the-badge&logo=security&logoColor=00FF41&labelColor=0d1117" alt="Security" />
   <a href="https://komarev.com/ghpvc/?username=muhammadnabin">
-    <img src="https://komarev.com/ghpvc/?username=muhammadnabin&label=NEURAL%20CONNECTIONS&color=00FF41&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=muhammadnabin&label=VISITORS&color=00FF41&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
   </a>
 </p>
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   ███╗   ███╗██╗   ██╗██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗ █████╗ ██████╗ ║
-║   ████╗ ████║██║   ██║██║  ██║██╔══██╗████╗ ████║████╗ ████║██╔══██╗██╔══██╗║
-║   ██╔████╔██║██║   ██║███████║███████║██╔████╔██║██╔████╔██║███████║██║  ██║║
-║   ██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║  ██║║
-║   ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██████╔╝║
-║   ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝ ║
-║                                                                              ║
-║                          N A B I N                                           ║
-║                    [SYSTEM ARCHITECT v4.0]                                   ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
@@ -46,17 +27,40 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
+```diff
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@                                                                              @@
+@@   ███╗   ███╗██╗   ██╗██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗ █████╗ ██████╗ @@
+@@   ████╗ ████║██║   ██║██║  ██║██╔══██╗████╗ ████║████╗ ████║██╔══██╗██╔══██╗@@
+@@   ██╔████╔██║██║   ██║███████║███████║██╔████╔██║██╔████╔██║███████║██║  ██║@@
+@@   ██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║  ██║@@
+@@   ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██████╔╝@@
+@@   ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝ @@
+@@                                                                              @@
+@@                        N  A  B  I  N                                         @@
+@@                  [SYSTEM ARCHITECT v4.0]                                     @@
+@@                 CLEARANCE: OMEGA | STATUS: ACTIVE                            @@
+@@                                                                              @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+```
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=▓▓▓▓▓+MATRIX+RAIN+FALLING+▓▓▓▓▓;01001101+01010101+01001000+01000001+01001101+01001101+01000001+01000100;▓▓▓▓▓+NEURAL+PATHWAYS+CONNECTING+▓▓▓▓▓;QUANTUM+ENCRYPTION+ENABLED+🔐+SECURE+CHANNEL+ESTABLISHED" alt="Matrix Rain" />
+</p>
+
+---
+
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> SYSTEM INITIALIZATION PROTOCOL
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```css
 ╭─────────────────────────────────────────────╮
-│ > ACCESSING MAINFRAME...                   │
-│ > LOADING NEURAL PROFILE...                │
-│ > DECRYPTING DATA STREAMS...               │
-│ > ESTABLISHING SECURE CONNECTION...        │
-│ > STATUS: ✓ OPERATIONAL                    │
+│ > ACCESSING MAINFRAME...          [✓]      │
+│ > LOADING NEURAL PROFILE...        [✓]      │
+│ > DECRYPTING DATA STREAMS...       [✓]      │
+│ > ESTABLISHING SECURE CONNECTION.. [✓]      │
+│ > STATUS: ✓ OPERATIONAL                     │
 ╰─────────────────────────────────────────────╯
 ```
 
@@ -67,6 +71,10 @@
 **[CORE DIRECTIVE]** Push technological boundaries. Break what can't be broken. Build what shouldn't exist. Secure everything.
 
 <br clear="right"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&pause=1000&color=00D4AA&center=true&vCenter=true&width=900&lines=⚡+NEURAL+LINK+ESTABLISHED+⚡;🔐+256-BIT+ENCRYPTION+ACTIVE+🔐;🌊+DATA+STREAMS+FLOWING+🌊;✨+QUANTUM+PROCESSORS+ONLINE+✨" alt="Status Bar" />
+</p>
 
 ```python
 # NEURAL NETWORK CONFIGURATION
@@ -94,6 +102,12 @@ class SystemArchitect_v4:
     def execute(self):
         return ">>> SYSTEM READY FOR DEPLOYMENT <<<"
 ```
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
+
+---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> OPERATIONAL DOMAINS
 
@@ -169,8 +183,14 @@ STATUS: █████████░ 92% DEPLOYED
 </table>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=12&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=▓▓▓+SYSTEMS+OPERATIONAL+▓▓▓;▓▓▓+ALL+MODULES+ARMED+▓▓▓;▓▓▓+READY+FOR+DEPLOYMENT+▓▓▓" alt="Module Status" />
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </p>
+
+---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> NEURAL NETWORK ANALYTICS
 
@@ -187,12 +207,20 @@ STATUS: █████████░ 92% DEPLOYED
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=12&pause=1000&color=00D4AA&center=true&vCenter=true&width=900&lines=📊+ANALYZING+CODE+PATTERNS+📊;🔍+TRACKING+CONTRIBUTIONS+🔍;📈+CALCULATING+EFFICIENCY+📈;⚡+PERFORMANCE+OPTIMAL+⚡" alt="Analytics Status" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnabin&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8&cache_seconds=86400&bg_color=0d1117&title_color=00FF41&text_color=00FF41" alt="Top Languages" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammadnabin&theme=github_dark&utcOffset=6" alt="Productive Time" width="49%" />
 </p>
 
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadnabin&theme=github-compact&hide_border=true&cache_seconds=86400&bg_color=0d1117&color=00FF41&line=00D4AA&point=00FF41&area=true&area_color=00FF41" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=12&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=✨+ACTIVITY+GRAPH+RENDERED+✨;💚+CONTRIBUTION+STREAM+ACTIVE+💚;🌊+DATA+FLOWING+SMOOTHLY+🌊" alt="Graph Status" />
 </p>
 
 <div align="center">
@@ -205,6 +233,12 @@ STATUS: █████████░ 92% DEPLOYED
 ```
 
 </div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</p>
+
+---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> PROGRAMMING LANGUAGES `[NEURAL_CORE]`
 
@@ -223,6 +257,12 @@ STATUS: █████████░ 92% DEPLOYED
 [████████████████████████████░░░░░░] PHP         - MASTERY LEVEL: 78%
 ```
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=12&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=🔢+8+LANGUAGES+LOADED+INTO+NEURAL+CORE+🔢;⚡+MULTILINGUAL+PROGRAMMING+MATRIX+ACTIVE+⚡;🧠+SYNTAX+PATTERNS+OPTIMIZED+🧠" alt="Language Status" />
+</p>
+
+---
+
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> FRONTEND WARFARE `[UI_COMBAT_SYSTEM]`
 
 <p align="center">
@@ -238,6 +278,12 @@ STATUS: █████████░ 92% DEPLOYED
 + BOOTSTRAP         → [LEGACY_OPS] Battle-Tested UI Arsenal
 + SASS              → [ADVANCED] Modular Style Warfare
 ```
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=12&pause=1000&color=00D4AA&center=true&vCenter=true&width=900&lines=🎨+FRONTEND+ARSENAL+LOADED+🎨;💎+UI/UX+WEAPONS+ARMED+💎;✨+INTERFACE+SYSTEMS+READY+✨" alt="Frontend Status" />
+</p>
+
+---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30"> BACKEND FORTRESS `[SERVER_DOMINANCE]`
 
@@ -257,6 +303,12 @@ const backendArsenal = {
 // >> DEPLOYMENT STATUS: ALL SYSTEMS ARMED
 ```
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=12&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=🏰+BACKEND+FORTRESS+SECURED+🏰;⚡+API+ENDPOINTS+ACTIVE+⚡;🔐+SERVER+DEFENSES+ONLINE+🔐" alt="Backend Status" />
+</p>
+
+---
+
 ## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30"> DATABASE MATRIX `[DATA_VAULT]`
 
 <p align="center">
@@ -274,6 +326,12 @@ const backendArsenal = {
 │ SQLite              │ 🟢 ACTIVE   │ ENCRYPTED   │ 100.00%   │
 └─────────────────────────────────────────────────────────────┘
 ```
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=12&pause=1000&color=00D4AA&center=true&vCenter=true&width=900&lines=💾+5+DATABASE+SYSTEMS+ONLINE+💾;🔒+ALL+DATA+ENCRYPTED+🔒;📊+QUERIES+OPTIMIZED+📊" alt="Database Status" />
+</p>
+
+---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30"> DEVOPS COMMAND CENTER `[DEPLOYMENT_OPS]`
 
@@ -293,6 +351,12 @@ OPERATION: CONTINUOUS_DEPLOYMENT
 
 DEPLOYMENT_READINESS: ████████████████████████ 100%
 ```
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=12&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=🚀+DEVOPS+PIPELINE+ACTIVE+🚀;☁️+CLOUD+INFRASTRUCTURE+DEPLOYED+☁️;🐳+CONTAINERS+ORCHESTRATED+🐳" alt="DevOps Status" />
+</p>
+
+---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"> IoT & EMBEDDED SYSTEMS `[HARDWARE_CONTROL]`
 
@@ -314,6 +378,12 @@ DEPLOYMENT_READINESS: ███████████████████�
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=12&pause=1000&color=00D4AA&center=true&vCenter=true&width=900&lines=🤖+IoT+DEVICES+CONNECTED+🤖;⚙️+EMBEDDED+SYSTEMS+PWNED+⚙️;📡+HARDWARE+PROTOCOLS+INTERCEPTED+📡" alt="IoT Status" />
+</p>
+
+---
+
 ## <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30"> DEVELOPMENT TOOLS `[TACTICAL_GEAR]`
 
 <p align="center">
@@ -321,8 +391,14 @@ DEPLOYMENT_READINESS: ███████████████████�
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=12&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=🛠️+DEVELOPMENT+TOOLS+LOADED+🛠️;⚡+IDE+SYSTEMS+OPTIMIZED+⚡;🎨+DESIGN+TOOLS+READY+🎨" alt="Tools Status" />
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </p>
+
+---
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> ACHIEVEMENT MATRIX `[BATTLE_HONORS]`
 
@@ -359,6 +435,12 @@ DEPLOYMENT_READINESS: ███████████████████�
 
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=12&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=🏆+ACHIEVEMENTS+UNLOCKED+🏆;⭐+ELITE+STATUS+CONFIRMED+⭐;💎+LEGENDARY+RANK+ACHIEVED+💎" alt="Achievement Status" />
+</p>
+
+---
+
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> CONTRIBUTION WARFARE `[COMMIT_HISTORY]`
 
 <picture>
@@ -378,9 +460,15 @@ DEPLOYMENT_READINESS: ███████████████████�
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=12&pause=1000&color=00D4AA&center=true&vCenter=true&width=900&lines=📊+TRACKING+CONTRIBUTION+PATTERNS+📊;🔥+COMMIT+STREAK+MAINTAINED+🔥;💚+GREEN+SQUARES+MULTIPLYING+💚" alt="Contribution Status" />
+</p>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
+
+---
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> SECURE COMMUNICATION CHANNELS
 
@@ -417,9 +505,15 @@ DEPLOYMENT_READINESS: ███████████████████�
   </a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=12&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=🔐+SECURE+CHANNELS+OPEN+🔐;📡+ENCRYPTED+TRANSMISSION+ACTIVE+📡;🌐+GLOBAL+NETWORK+CONNECTED+🌐" alt="Communication Status" />
+</p>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
+
+---
 
 ## <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="30"> CLASSIFIED INTEL `[SYSTEM_QUOTES]`
 
@@ -447,9 +541,15 @@ DEPLOYMENT_READINESS: ███████████████████�
 
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=12&pause=1000&color=00D4AA&center=true&vCenter=true&width=900&lines=💭+WISDOM+FROM+THE+MATRIX+💭;🧠+DEVELOPER+PHILOSOPHY+LOADED+🧠;✨+INSPIRATION+PROTOCOLS+ACTIVE+✨" alt="Quote Status" />
+</p>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
+
+---
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> SUPPORT PROTOCOL `[RESOURCE_ALLOCATION]`
 
@@ -507,8 +607,14 @@ DEPLOYMENT_READINESS: ███████████████████�
 </div>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=12&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=☕+SUPPORT+SYSTEM+ONLINE+☕;💚+COMMUNITY+POWERED+💚;🚀+INNOVATION+FUNDED+🚀" alt="Support Status" />
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </p>
+
+---
 
 ## <img src="https://media.giphy.com/media/kdiLf3LHFIubA6vDC1/giphy.gif" width="30"> SYSTEM STATISTICS `[LIVE_METRICS]`
 
@@ -563,8 +669,14 @@ def calculate_developer_efficiency():
 </div>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=12&pause=1000&color=00D4AA&center=true&vCenter=true&width=900&lines=📊+METRICS+CALCULATED+📊;⚡+PERFORMANCE+OPTIMAL+⚡;🎯+EFFICIENCY+MAXIMIZED+🎯" alt="Metrics Status" />
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </p>
+
+---
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> MISSION CONTROL `[ACTIVE_PROJECTS]`
 
@@ -635,8 +747,14 @@ def calculate_developer_efficiency():
 </table>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=12&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=🎯+4+ACTIVE+MISSIONS+🎯;⚡+PROJECTS+IN+PROGRESS+⚡;🚀+INNOVATION+PIPELINE+FULL+🚀" alt="Project Status" />
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </p>
+
+---
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> TERMINAL ACCESS `[COMMAND_LINE_INTERFACE]`
 
@@ -680,9 +798,15 @@ drwxr-xr-x  25 root root  4096 Oct 06 2025 ../
 
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=12&pause=1000&color=00D4AA&center=true&vCenter=true&width=900&lines=💻+TERMINAL+ACCESS+GRANTED+💻;⌨️+COMMAND+LINE+READY+⌨️;🔓+ROOT+PRIVILEGES+ENABLED+🔓" alt="Terminal Status" />
+</p>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
+
+---
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> SYSTEM SIGNATURE `[AUTHORIZATION_COMPLETE]`
 
@@ -690,13 +814,6 @@ drwxr-xr-x  25 root root  4096 Oct 06 2025 ../
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════╗
-║                                                                       ║
-║           ███╗   ███╗██╗   ██╗██╗  ██╗ █████╗ ███╗   ███╗            ║
-║           ████╗ ████║██║   ██║██║  ██║██╔══██╗████╗ ████║            ║
-║           ██╔████╔██║██║   ██║███████║███████║██╔████╔██║            ║
-║           ██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║            ║
-║           ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║            ║
-║           ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝            ║
 ║                                                                       ║
 ║                      MUHAMMAD NABIN                                   ║
 ║                 [SYSTEM ARCHITECT v4.0]                               ║
