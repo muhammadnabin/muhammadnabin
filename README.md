@@ -1,81 +1,331 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px"> I'm Muhammad Nabin</h1>
-<h3 align="center">Full Stack & IoT Developer | Robotics, Embedded Systems & Cybersecurity Engineer | Hardware Hacking & Penetration Testing Expert</h3>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=muhammadnabin">
-    <img src="https://komarev.com/ghpvc/?username=muhammadnabin&label=Profile%20views&color=00FFFF&style=flat-square" alt="muhammadnabin's profile views" />
-  </a>
-</p>
-
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
-
-## 📌 About Me
-- Full Stack, IoT & Robotics Developer with a strong background in embedded systems engineering.
-- Experienced in hardware hacking, robotics, hardware security, and penetration testing.
-- Skilled at developing scalable, secure, and intelligent IoT and robotic applications.
-- Focused on bridging software, hardware, and automation to create impactful technologies.
-- Passionate about cybersecurity, robotics innovation, and real-world problem solving.
-- Dedicated to continuous learning, technical excellence, and creative engineering.
-
-
-## 🧠 My Focus Areas
-- Full Stack Web & Application Development
-- Internet of Things (IoT) Systems & Automation
-- Robotics Design, Control, and Integration
-- Embedded Systems Engineering & Firmware Development
-- Hardware Hacking & Reverse Engineering
-- Cybersecurity & Penetration Testing
-- Network and Device Security Analysis
-- Secure System Architecture & Implementation
-- Cloud Integration & Scalable Backend Development
-- Continuous Learning, Research, and Innovation
-
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadnabin&show_icons=true&theme=merko&hide_border=true&count_private=true&cache_seconds=86400" alt="muhammadnabin's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=muhammadnabin&theme=merko&hide_border=true&cache_seconds=86400" alt="muhammadnabin's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadnabin&theme=merko&radius=10" alt="muhammadnabin's Activity Graph" />
-</p>
-
-
-## 🛠️ Languages & Tools
-
-### Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
-
-### Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
-
-### Backend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
-
-### Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /></p>
-
-### DevOps & Cloud
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /></p>
-
-### Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /></p>
-
-## 🔗 Connect with Me
-<p align="center"><a href="muhammadnabin" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="muhammadnabin" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/></a> <a href="muhammadnabin" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="Youtube" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:muhammadnabin.dev@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="muhammadnabin" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
-
-## 💬 Quote
-> Real developers don’t fear errors… they fear “it works on my machine"
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
-
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+
+```
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║   ███╗   ██╗ █████╗ ██████╗ ██╗███╗   ██╗    ██████╗ ███████╗██╗   ██╗  ║
+║   ████╗  ██║██╔══██╗██╔══██╗██║████╗  ██║    ██╔══██╗██╔════╝██║   ██║  ║
+║   ██╔██╗ ██║███████║██████╔╝██║██╔██╗ ██║    ██║  ██║█████╗  ██║   ██║  ║
+║   ██║╚██╗██║██╔══██║██╔══██╗██║██║╚██╗██║    ██║  ██║██╔══╝  ╚██╗ ██╔╝  ║
+║   ██║ ╚████║██║  ██║██████╔╝██║██║ ╚████║    ██████╔╝███████╗ ╚████╔╝   ║
+║   ╚═╝  ╚═══╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═══╝    ╚═════╝ ╚══════╝  ╚═══╝    ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
+
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Architect+%7C+IoT+Systems+Engineer;Robotics+%26+Embedded+Systems+Specialist;Cybersecurity+Researcher+%7C+Hardware+Hacker;Penetration+Testing+Expert+%7C+Exploit+Developer" alt="Typing SVG" />
+</h3>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=muhammadnabin&label=SYSTEM.ACCESS&color=00ff41&style=for-the-badge)](https://github.com/muhammadnabin)
+[![Matrix Status](https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&logo=matrix&logoColor=00ff41)](https://github.com/muhammadnabin)
+[![Security Level](https://img.shields.io/badge/CLEARANCE-LEVEL%205-00ff41?style=for-the-badge&logo=hackaday&logoColor=00ff41)](https://github.com/muhammadnabin)
+
 </div>
 
+---
+
+<div align="center">
+
+```ascii
+    ╔═══════════════════════════════════════════════════════════╗
+    ║  "The code you write today is the exploit of tomorrow"   ║
+    ╚═══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+## 🔐 [ SYSTEM PROFILE ]
+
+```python
+class MuhammadNabin:
+    def __init__(self):
+        self.username = "muhammadnabin"
+        self.role = "Full Stack Architect | IoT Systems Engineer"
+        self.specialization = [
+            "Hardware Hacking & Reverse Engineering",
+            "Robotics & Autonomous Systems",
+            "Embedded Security & Firmware Analysis",
+            "Penetration Testing & Exploit Development",
+            "IoT Infrastructure & Cloud Integration"
+        ]
+        self.mindset = "Breaking systems to build better ones"
+        
+    def get_daily_routine(self):
+        return {
+            "morning": "Exploit research & vulnerability analysis",
+            "afternoon": "Building IoT/Robotics systems",
+            "evening": "CTF challenges & hardware hacking",
+            "night": "Code, debug, deploy, repeat"
+        }
+        
+    def current_mission(self):
+        return "Bridging the physical and digital realms through secure, intelligent automation"
+
+nabin = MuhammadNabin()
+```
+
+## ⚡ [ CORE COMPETENCIES ]
+
+<div align="center">
+
+```diff
+@@  OFFENSIVE SECURITY  @@
++ Hardware Exploitation        ████████████████████░  95%
++ Network Penetration          ███████████████████░░  90%
++ Reverse Engineering          ██████████████████░░░  88%
++ Vulnerability Assessment     ███████████████████░░  92%
+
+@@  SYSTEM ARCHITECTURE  @@
++ IoT Infrastructure           ████████████████████░  96%
++ Embedded Systems Design      ███████████████████░░  94%
++ Robotics Engineering         ███████████████████░░  91%
++ Full Stack Development       ███████████████████░░  93%
+
+@@  ADVANCED DOMAINS  @@
++ Firmware Development         ██████████████████░░░  89%
++ Cloud Architecture           ██████████████████░░░  87%
++ Cybersecurity Research       ███████████████████░░  90%
++ AI/ML Integration            ████████████████░░░░░  82%
+```
+
+</div>
+
+## 💻 [ TECH ARSENAL ]
+
+<details>
+<summary><b>🗡️ OFFENSIVE TOOLS & FRAMEWORKS</b></summary>
+<br>
+
+```bash
+┌─[penetration-testing]
+├── Metasploit Framework
+├── Burp Suite Professional
+├── Wireshark & tcpdump
+├── Nmap & Masscan
+├── SQLmap & XSSer
+├── Hashcat & John the Ripper
+├── Ghidra & IDA Pro
+└── Custom Exploit Scripts
+```
+
+</details>
+
+<details>
+<summary><b>🛠️ DEVELOPMENT STACK</b></summary>
+<br>
+
+**Languages**
+```
+JavaScript/TypeScript • Python • C/C++ • Java • C# • PHP • Rust • Go
+```
+
+**Frontend Arsenal**
+```
+React.js • Next.js • Vue.js • HTML5 • CSS3/SCSS • Tailwind CSS • Bootstrap
+WebGL • Three.js • D3.js • Electron
+```
+
+**Backend Infrastructure**
+```
+Node.js • Express.js • Django • Flask • FastAPI • Spring Boot • .NET Core
+GraphQL • REST APIs • WebSockets • gRPC
+```
+
+**Database Systems**
+```
+PostgreSQL • MySQL • MongoDB • Redis • Elasticsearch • Firebase • DynamoDB
+```
+
+**DevOps & Cloud**
+```
+Docker • Kubernetes • Jenkins • GitHub Actions • AWS • GCP • Azure
+Terraform • Ansible • Prometheus • Grafana
+```
+
+</details>
+
+<details>
+<summary><b>🤖 IOT & EMBEDDED SYSTEMS</b></summary>
+<br>
+
+```yaml
+Microcontrollers:
+  - Arduino (AVR, ARM)
+  - ESP32/ESP8266
+  - Raspberry Pi (All Variants)
+  - STM32 Series
+  - PIC Microcontrollers
+  - Teensy 4.x
+
+Communication Protocols:
+  - MQTT, CoAP, HTTP/HTTPS
+  - I2C, SPI, UART, CAN Bus
+  - LoRaWAN, Zigbee, BLE
+  - Modbus, OPC-UA
+
+Hardware Tools:
+  - Logic Analyzers
+  - Oscilloscopes
+  - JTAG/SWD Debuggers
+  - Bus Pirate
+  - SDR (Software Defined Radio)
+```
+
+</details>
+
+<details>
+<summary><b>🔬 ROBOTICS & AUTOMATION</b></summary>
+<br>
+
+```
+⚙️ ROS/ROS2 Framework
+⚙️ Computer Vision (OpenCV, TensorFlow)
+⚙️ Path Planning & SLAM
+⚙️ Motor Control Systems (DC, Stepper, Servo)
+⚙️ Sensor Fusion & Kalman Filtering
+⚙️ Autonomous Navigation
+⚙️ PID Controllers & State Machines
+```
+
+</details>
+
+## 📊 [ SYSTEM METRICS ]
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadnabin&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00ff41&border_color=00ff41&hide_border=false&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=muhammadnabin&theme=chartreuse-dark&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideNums=00ff41&currStreakNum=00ff41&sideLabels=00ff41&dates=00ff41&border=00ff41" width="49%" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadnabin&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&area=true&hide_border=false&border_color=00ff41&custom_title=System%20Activity%20Graph" width="98%" alt="Activity Graph" />
+
+</div>
+
+## 🏆 [ ACHIEVEMENTS UNLOCKED ]
+
+<div align="center">
+
+```
+┌───────────────────────────────────────────────────────────────┐
+│  🎯 Full Stack Applications Deployed          [ ████████ ]  │
+│  🔐 Security Vulnerabilities Discovered       [ ██████░░ ]  │
+│  🤖 IoT/Robotics Projects Completed           [ ███████░ ]  │
+│  ⚡ Hardware Devices Reverse Engineered       [ ████████ ]  │
+│  🌐 API Integrations & Microservices Built    [ ███████░ ]  │
+│  💾 Lines of Code Written                     [ ∞∞∞∞∞∞∞∞ ]  │
+└───────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+## 🎯 [ ACTIVE MISSIONS ]
+
+```javascript
+const currentProjects = {
+  priority_alpha: {
+    name: "Advanced IoT Security Framework",
+    status: "In Development",
+    tech: ["ESP32", "MQTT", "AES-256", "Python"],
+    completion: 78
+  },
+  priority_beta: {
+    name: "Autonomous Robotics Platform",
+    status: "Testing Phase",
+    tech: ["ROS2", "Computer Vision", "LiDAR", "C++"],
+    completion: 85
+  },
+  priority_gamma: {
+    name: "Full Stack SaaS Application",
+    status: "MVP Ready",
+    tech: ["Next.js", "Node.js", "PostgreSQL", "Docker"],
+    completion: 92
+  },
+  research: {
+    name: "Hardware Backdoor Detection",
+    status: "Research Phase",
+    tech: ["FPGA", "JTAG", "Firmware Analysis"],
+    completion: 45
+  }
+};
+```
+
+## 🌐 [ NETWORK CONNECTIONS ]
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────┐
+│  SECURE CHANNELS - ENCRYPTED COMMUNICATION      │
+└─────────────────────────────────────────────────┘
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadnabin)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/muhammadnabin)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@muhammadnabin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadnabin.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&logo=google-chrome&logoColor=black)](https://muhammadnabin.dev)
+
+</div>
+
+## 💭 [ TERMINAL WISDOM ]
+
+<div align="center">
+
+```bash
+$ cat /dev/wisdom
+> "Real hackers don't just break into systems...
+> They understand them so deeply they can rebuild them better."
+> 
+> "Hardware is the truth. Software is the interface.
+> Master both, and you control reality."
+>
+> "Every 'impossible' is just a lack of creativity in exploitation."
+```
+
+</div>
+
+## 🔥 [ CONTRIBUTION HEATMAP ]
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadnabin/muhammadnabin/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadnabin/muhammadnabin/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muhammadnabin/muhammadnabin/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+## ☕ [ SUPPORT THE MISSION ]
+
+<div align="center">
+
+```
+┌────────────────────────────────────────────────┐
+│  Fuel the code with caffeine & cryptocurrency  │
+└────────────────────────────────────────────────┘
+```
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/muhammadnabin)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/muhammadnabin)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║  "In a world of locked doors, I am the master key"                ║
+║                                                                    ║
+║  [ SYSTEM STATUS: ACTIVE ]  [ UPTIME: 24/7/365 ]                  ║
+║  [ LAST LOGIN: Just now ]   [ THREAT LEVEL: MINIMAL ]             ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=100&section=footer&text=SYSTEM%20ACCESS%20GRANTED&fontSize=20&fontColor=0d1117&animation=twinkling" width="100%"/>
+
+</div>
